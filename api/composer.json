@@ -11,7 +11,7 @@
         "sensiolabs/security-checker": "^4.1",
         "symfony/console": "^4.0",
         "symfony/flex": "^1.0",
-        "symfony/framework-bundle": "^4.0",
+        "symfony/framework-bundle": "^5.0",
         "symfony/lts": "^4@dev",
         "symfony/yaml": "^4.0",
         "webonyx/graphql-php": "^0.11.5"
